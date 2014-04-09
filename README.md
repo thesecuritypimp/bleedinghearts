@@ -8,7 +8,9 @@ Usage :
 
 
 Output Examples :
-'TLS server extension heartbeat' 
-    The above output should be further investigated to verify the vulnerability.
+
+    'TLS server extension heartbeat' 
+
+The above output should be further investigated to verify the vulnerability.
     
 
