@@ -1,7 +1,7 @@
 bleeding_hearts.sh
 ==============
 
-Quick and Dirty Bleeding Heart Scanner.
+Quick and Dirty Heartbleed SSL Scanner.
 
 Usage :
 
@@ -14,4 +14,9 @@ Output Examples :
 
 The above output should be further investigated to verify the vulnerability.
     
+    
+More Info:
+
+
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-0160
 
