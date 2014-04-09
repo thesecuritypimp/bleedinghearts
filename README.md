@@ -4,7 +4,8 @@ bleeding_hearts.sh
 Quick and Dirty Bleeding Heart Scanner.
 
 Usage :
-./bleeding_hearts.sh domain-list.txt
+
+'./bleeding_hearts.sh domain-list.txt'
 
 
 Output Examples :
